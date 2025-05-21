@@ -1,7 +1,4 @@
-Ez egy NFA DFA átalakító program.
-Test valtoztatas
-Megint
+Ez egy parancssoros NFA DFA átalakító.
 
-Tovabbi sorok
-hello
-Teszt megint
+Erősen hiányos, de jól mködik.
+Pythonban írt program. Egyelőre az NFA-t csak úgy lehet megadni, hogy a programba beírjuk. Ehhez egy szomszédsági mátrixot kell megadni, melynek [i][j] eleme az i állapotból a j állapotba vezető átmenet, valamilyen inputra, ha ilyen nincs, akkor set()-tel üresen kell hagyni. Az átmenetnél az inputot halmazként kell megadni (a több karakteres bemeneteket nem kell szétbontani, azt a program megcsinálja). Az állapotok számozása 0-val kezdődik, meg kell adni a kezdő állapotot, ami egy szám, az elfogadó állapotokat, ami egy halmaz, a sigma ábécét, ami egy lista. A végén a DFA-t definíció szerint adja vissza, kiírva a (K, Sigma, delta, s, F) rendezett ötöst.
