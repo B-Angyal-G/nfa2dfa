@@ -1,0 +1,21 @@
+Aho, Sethi, Ullman - Compilers
+Brookshear - Computer Science - An overview
+Brookshear - Theory of computation
+Cohen - Intro to computer theory
+Davis - Computability, complexity, and languages
+Du and Ko - Problem solving automata, languages and complexity
+Floyd and Beigel - The languages of machines
+Gersting - Mathematical structures for computer science
+Goddar - Introducing the theory of computation
+Homer - Computability and complexity theory
+Johnsonbaugh - Discrete mathematics
+Kelley - Automata and formal languages
+Kinber and Smith - Theory of computing
+Kozen - Automata and Computability
+Lewis and Papadimitrou - Elements of the theory of computation
+Linz - Formal languages and automata
+Martin - Introduciton to languages and the theory of computation
+Motwani, Ullman and Hopcroft - Intro to automata theory, languages and computation
+Sipser - Introduction to the theory of computation
+Sudkamp - Languages and machines
+Taylor - Models of computation and formal languages
